@@ -1,0 +1,1007 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getEle",
+				"document.getElementById(id)	Document"
+			],
+			[
+				"ba",
+				"backgroundImage	Style CSS"
+			],
+			[
+				"cono",
+				"console.log()"
+			],
+			[
+				"cons",
+				"console.log()"
+			],
+			[
+				"getElemen",
+				"getElementById(id)	Element"
+			],
+			[
+				"getAtt",
+				"getAttribute(attributeName)	Element"
+			],
+			[
+				"ballSpe",
+				"ballSpeedX"
+			],
+			[
+				"ballSpeed",
+				"ballSpeedX"
+			],
+			[
+				"BRICK_",
+				"BRICK_W"
+			],
+			[
+				"brickTile",
+				"brickTileRow"
+			],
+			[
+				"PADDLE_",
+				"PADDLE_HEIGHT"
+			],
+			[
+				"fi",
+				"fire	fillRect()"
+			],
+			[
+				"tex",
+				"textAlign	Style CSS"
+			],
+			[
+				"mouse",
+				"mousemove	Event"
+			],
+			[
+				"get",
+				"getBoundingClientRect()	Element"
+			],
+			[
+				"ch",
+				"childNodes	Node"
+			],
+			[
+				"setT",
+				"setTimeout(${0:func}, delay)	Window"
+			],
+			[
+				"crea",
+				"createSidebar"
+			],
+			[
+				"match",
+				"matchMedia(${0:mediaQueryString})	Window"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"poll",
+				"pollValue"
+			],
+			[
+				"fun",
+				"function(){\n	$0\n})();	(function(){\n	$0\n})();"
+			],
+			[
+				"pa",
+				"parent	Window"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"add",
+				"addslashes"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"paddin-",
+				"padding-bottom"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"img",
+				"imgResult"
+			],
+			[
+				"post",
+				"postID"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"pre",
+				"preventDefault()	Event"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"pare",
+				"parentNode	Node"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"class",
+				"className	Element"
+			],
+			[
+				"function",
+				"function_exists"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"mari",
+				"margin-right"
+			],
+			[
+				"maroi",
+				"margin-bottom"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"sidr",
+				"sidr_footer"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"getElem",
+				"getElementById(${0:id})	Element"
+			],
+			[
+				"tr",
+				"tr	Tag"
+			],
+			[
+				"else",
+				"else if()"
+			],
+			[
+				"close",
+				"close()	Document"
+			],
+			[
+				"init",
+				"initPoint"
+			],
+			[
+				"part",
+				"particleArray"
+			],
+			[
+				"int",
+				"initProps"
+			],
+			[
+				"Math",
+				"Math.random()	Math"
+			],
+			[
+				"erase",
+				"eraseSpeed"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"html",
+				"htmlboiler	htmlboiler"
+			],
+			[
+				"sec",
+				"secAngle"
+			],
+			[
+				"time",
+				"timeAngle"
+			],
+			[
+				"an",
+				"animate"
+			],
+			[
+				"ce",
+				"centerX"
+			],
+			[
+				"center",
+				"centerY"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"ini",
+				"insideArray"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"tmp",
+				"tmpArray"
+			],
+			[
+				"up",
+				"updateInputs"
+			],
+			[
+				"resul",
+				"resultKey"
+			],
+			[
+				"data",
+				"dataArray"
+			],
+			[
+				"per",
+				"basicPer"
+			],
+			[
+				"can",
+				"canvasEl"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"handle",
+				"handleAuthResult"
+			],
+			[
+				"aut",
+				"authorize"
+			],
+			[
+				"auth",
+				"authorizeBut"
+			],
+			[
+				"hand",
+				"handleUnAuthorized"
+			],
+			[
+				"cli",
+				"clientID"
+			],
+			[
+				"set",
+				"setTimeout  (function)"
+			],
+			[
+				"File",
+				"FileReader"
+			],
+			[
+				"str",
+				"strokeStyle"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"p",
+				"prototype"
+			],
+			[
+				"getElement",
+				"getElementById  (function)"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"zoom",
+				"zoomBox"
+			],
+			[
+				"resiz",
+				"resizeHandler"
+			],
+			[
+				"inline-",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"m",
+				"olw-m	outline-width: medium;"
+			],
+			[
+				"bdt",
+				"bdtri-c	border-top-right-image: continue;"
+			],
+			[
+				"prevent",
+				"preventDefault"
+			],
+			[
+				"block",
+				"block"
+			],
+			[
+				"Mo",
+				"Monday"
+			],
+			[
+				"dat",
+				"dateToFormat"
+			],
+			[
+				"da",
+				"daysPattern"
+			],
+			[
+				"title",
+				"titleString"
+			],
+			[
+				"e",
+				"else	else if"
+			],
+			[
+				"XMLList",
+				"XMLList"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"curr",
+				"current_file"
+			],
+			[
+				"print_",
+				"print_a_line"
+			],
+			[
+				"current",
+				"current_line"
+			],
+			[
+				"number",
+				"number_of_items"
+			],
+			[
+				"amout",
+				"amount_of_crackers"
+			],
+			[
+				"amount_",
+				"amount_of_cheese"
+			],
+			[
+				"cheese",
+				"cheese_and_crackers"
+			],
+			[
+				"amount",
+				"amount_of_crackers"
+			],
+			[
+				"amou",
+				"amount_of_cheese"
+			],
+			[
+				"chee",
+				"cheese_and_crackers"
+			],
+			[
+				"arg",
+				"arg1"
+			],
+			[
+				"fie",
+				"file_to"
+			],
+			[
+				"Video",
+				"videoHolder"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"List",
+				"Package Control: List Packages"
+			],
+			[
+				"show",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"choose",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"togg",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 456.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Library/WebServer/Documents/www/Projects/react-wp/public/wp-content/themes/react-wp/gruntfile.js",
+		"/Library/WebServer/Documents/www/Projects/react-wp/public/wp-content/themes/react-wp/template-parts/content-none.php",
+		"/Library/WebServer/Documents/www/Projects/react-wp/public/wp-content/themes/react-wp/template-parts/content-page.php",
+		"/Library/WebServer/Documents/www/Projects/react-wp/public/wp-content/themes/react-wp/template-parts/content.php",
+		"/Users/frederick.naude/.bash_profile",
+		"/Library/WebServer/Documents/www/Work_Projects/NMPIntranet/public/wp-content/plugins/dialogue-login/templates/edit_profile.php",
+		"/Library/WebServer/Documents/www/Work_Projects/NMPIntranet/public/wp-content/themes/nmpintranet/js/profile/profile.js",
+		"/Library/WebServer/Documents/www/Work_Projects/NMPIntranet/public/wp-content/themes/nmpintranet/js/cropbox.js",
+		"/Library/WebServer/Documents/www/Work_Projects/NMPIntranet/WorkingFiles/profile.js",
+		"/Library/WebServer/Documents/www/Work_Projects/NMPIntranet/public/wp-content/plugins/dialogue-login/js/utils.js",
+		"/Library/WebServer/Documents/www/Work_Projects/NMPIntranet/public/wp-content/plugins/dialogue-login/templates/register.php",
+		"/Library/WebServer/Documents/www/Work_Projects/NMPIntranet/public/wp-content/plugins/dialogue-login/config/user_profile.php",
+		"/Library/WebServer/Documents/www/Work_Projects/NMPIntranet/public/wp-content/themes/nmpintranet/scss/registration/_registration.scss",
+		"/Library/WebServer/Documents/www/Work_Projects/NMPIntranet/public/wp-content/plugins/dialogue-login/dialogue-login.php",
+		"/Library/WebServer/Documents/www/Work_Projects/NMPIntranet/public/wp-content/plugins/dialogue-login/ajax/register_ajax.php",
+		"/Library/WebServer/Documents/www/Work_Projects/NMPIntranet/public/wp-content/plugins/nmp-app-notifications/js/functions.js",
+		"/Library/WebServer/Documents/www/Work_Projects/NMPIntranet/public/wp-content/plugins/theme-my-login/modules/security/security.php",
+		"/Library/WebServer/Documents/www/Work_Projects/NMPIntranet/public/wp-content/themes/nmpintranet/js/cropbox-min.js",
+		"/Users/frederick.naude/Downloads/Development/Javascript/CropBox/IntranetVersion/cropbox/README.md",
+		"/Library/WebServer/Documents/www/Work_Projects/NMPIntranet/public/wp-content/themes/nmpintranet/scss/bdays/_bdays.scss",
+		"/Library/WebServer/Documents/www/Work_Projects/NMPIntranet/public/wp-content/themes/nmpintranet/scss/media-queries/_nmpmq.scss",
+		"/Users/frederick.naude/.ssh/config",
+		"/Library/WebServer/Documents/www/Work_Projects/NMPIntranet/public/.gitignore",
+		"/Users/frederick.naude/.ssh/confi",
+		"/Users/frederick.naude/Downloads/UNISA/Statistics/Statistics/statistics.md",
+		"/Users/frederick.naude/Downloads/Development/PreviewGameDevKit/Hands-On Intro to Game Programming-v4/Section 1 - Classic Games Programming Recipe Steps/2-brickBreak/brickBreak-step12.html",
+		"/Library/WebServer/Documents/www/JS/HobbyGameDev/1_TennisGame/style.css",
+		"/Library/WebServer/Documents/www/JS/HobbyGameDev/2_BrickGame/index.html",
+		"/Library/WebServer/Documents/www/JS/HobbyGameDev/2_BrickGame/script.js",
+		"/Users/frederick.naude/Downloads/Development/PreviewGameDevKit/Hands-On Game Programming preview/Section 1 - Classic Games Programming Recipe Steps (Tennis Only)/1-tennisGame/tennisGame-step22.html",
+		"/Library/WebServer/Documents/www/JS/HobbyGameDev/1_TennisGame/index.html",
+		"/Library/WebServer/Documents/www/JS/HobbyGameDev/1_TennisGame/script.js",
+		"/Users/frederick.naude/Downloads/Development/PreviewGameDevKit/Hands-On Game Programming preview/Section 1 - Classic Games Programming Recipe Steps (Tennis Only)/1-tennisGame/tennisGame-step23.html",
+		"/Users/frederick.naude/Downloads/Development/PreviewGameDevKit/Hands-On Game Programming preview/Section 1 - Classic Games Programming Recipe Steps (Tennis Only)/1-tennisGame/tennisGame-step24.html",
+		"/Users/frederick.naude/Downloads/Development/PreviewGameDevKit/Hands-On Intro to Game Programming-v4/Section 1 - Classic Games Programming Recipe Steps/1-tennisGame/tennisGame-step25.html",
+		"/Users/frederick.naude/Downloads/Development/PreviewGameDevKit/Hands-On Intro to Game Programming-v4/Section 1 - Classic Games Programming Recipe Steps/1-tennisGame/tennisGame-step26.html",
+		"/Users/frederick.naude/Downloads/Development/PreviewGameDevKit/Hands-On Intro to Game Programming-v4/Section 1 - Classic Games Programming Recipe Steps/1-tennisGame/tennisGame-step27.html",
+		"/Library/WebServer/Documents/www/JS/HobbyGameDev/TennisGame/index.html",
+		"/private/etc/apache2/httpd-vhosts.conf",
+		"/private/etc/apache2/vhosts/_default.conf",
+		"/private/etc/apache2/httpd.conf",
+		"/private/etc/apache2/vhosts/magictalk.localhost",
+		"/private/etc/apache2/vhosts/fred.work.net.conf",
+		"/private/etc/hosts",
+		"/private/etc/apache2/virtualhosts/magictalk.localhost",
+		"/private/etc/vhosts",
+		"/Library/WebServer/Documents/www/JS/HobbyGameDev/TennisGame/script.js",
+		"/Library/WebServer/Documents/www/JS/learning/JSFrontEndBook/script.js",
+		"/Library/WebServer/Documents/www/JS/learning/JSFrontEndBook/index.html",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/inc/template-tags.php",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/.gitignore",
+		"/private/var/folders/n2/6k6pl75x2350x5bkwb5bqyfcm8t8tt/T/fz3temp-1/wp-config.php",
+		"/Users/frederick.naude/Library/Application Support/Sublime Text 3/Packages/User/JSLint.sublime-settings",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/js/preloader.js",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/search.php",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/carl_styles.css",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/functions.php",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/content-single.php",
+		"/Users/frederick.naude/Library/Application Support/Sublime Text 3/Packages/JSLint/Default.sublime-keymap",
+		"/Users/frederick.naude/Library/Application Support/Sublime Text 3/Packages/GitSavvy/GitSavvy.sublime-settings",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/header.php",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/page-index.php",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/content-page.php",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/js/custom.js",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/css/font-awesome.min.css",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/css/bootstrap.min.css",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/content-search.php",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/js/animType.js",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/js/preloader_old.js",
+		"/Users/frederick.naude/Downloads/Development/Wordpress/MinimalBaseTheme/bones/eddiemachado-bones-9db85e4/library/scss/breakpoints/_481up.scss",
+		"/Users/frederick.naude/Downloads/Development/Wordpress/MinimalBaseTheme/bones/eddiemachado-bones-9db85e4/library/scss/breakpoints/_2x.scss",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/js/custom_working_new.js",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/header___.php",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/index.php",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/js/custom_working.js",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/page.php",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/page-index_dynamic.php",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/sidebar.php",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/search_new.php",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/searchform.php",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/content.php",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/comments.php",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/content-page_.php",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/style.css",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/functions_f.php",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/style_working.css",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/inc/bootstrap-walker.php",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/js/picturefill.min.js",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/css/jquery.sidr.light.css",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/single.php",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/js/liveReload.js",
+		"/Library/WebServer/Documents/www/JS/Useful_functions/helperFunc.js",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/footer.php",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/css/slick-theme.css",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/css/slick.css",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/js/slick.js",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/js/respond.min.js",
+		"/Library/WebServer/Documents/www/Work/MNET/IMAGINE_MAILER/2/fr/index_inline.html",
+		"/Library/WebServer/Documents/www/Work/MNET/IMAGINE_MAILER/2/pt/index.html",
+		"/Library/WebServer/Documents/www/Work/MNET/IMAGINE_MAILER/2/pt/index_inline.html",
+		"/Library/WebServer/Documents/www/Work/MNET/IMAGINE_MAILER/2/fr/index.html",
+		"/Library/WebServer/Documents/www/Work/MNET/IMAGINE_MAILER/README.MD",
+		"/Library/WebServer/Documents/www/Work/MNET/IMAGINE_MAILER/2/index_inline.html",
+		"/Library/WebServer/Documents/www/Work/MNET/IMAGINE_MAILER/2/index_netsed.html",
+		"/Library/WebServer/Documents/www/Work/MNET/IMAGINE_MAILER/1/index.html",
+		"/Library/WebServer/Documents/www/Work/Multichoice/README.MD",
+		"/Library/WebServer/Documents/www/JS/__LAB__/practice/particle.js",
+		"/Library/WebServer/Documents/www/JS/__LAB__/practice/index.html",
+		"/Library/WebServer/Documents/www/JS/__LAB__/practice/script.js",
+		"/Library/WebServer/Documents/www/JS/Useful_functions/tests/angleConverter.js",
+		"/Library/WebServer/Documents/www/JS/Useful_functions/tests/index.html",
+		"/Library/WebServer/Documents/www/Work/Vodacom/OurAfrica/wp-content/themes/ourafrica/functions.php",
+		"/Library/WebServer/Documents/www/Work/Vodacom/OurAfrica/wp-content/themes/ourafrica/index.php",
+		"/Library/WebServer/Documents/www/Work/Vodacom/OurAfrica/wp-content/themes/ourafrica/sidebar.php",
+		"/Library/WebServer/Documents/www/Work/Vodacom/OurAfrica/wp-content/themes/ourafrica/footer.php",
+		"/Library/WebServer/Documents/www/Work/Vodacom/OurAfrica/wp-content/themes/ourafrica/content-single.php",
+		"/Library/WebServer/Documents/www/Work/Vodacom/OurAfrica/wp-content/themes/ourafrica/content.php",
+		"/Library/WebServer/Documents/www/Work/Vodacom/OurAfrica/wp-content/themes/ourafrica/js/script.js",
+		"/Library/WebServer/Documents/www/Work/Vodacom/OurAfrica/wp-content/themes/ourafrica/inc/bootstrap-walker.php",
+		"/Library/WebServer/Documents/www/Work/Vodacom/OurAfrica/wp-content/themes/ourafrica/sidebar-left.php",
+		"/Library/WebServer/Documents/www/Work/Vodacom/OurAfrica/wp-content/themes/ourafrica/single.php",
+		"/Library/WebServer/Documents/www/Work/Vodacom/OurAfrica/wp-content/themes/ourafrica/inc/extras.php",
+		"/Library/WebServer/Documents/www/Work/Vodacom/OurAfrica/wp-content/themes/ourafrica/inc/template-tags.php",
+		"/Library/WebServer/Documents/www/Work/Vodacom/OurAfrica/wp-content/themes/ourafrica/template-sidebar-left.php",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/bootstrapwp/template-sidebar-left.php",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/bootstrapwp/sidebar-left.php",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/bootstrapwp/index.php",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/bootstrapwp/sidebar.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"/Library/WebServer/Documents/www/Work_Projects/NMPIntranet/public/wp-content/plugins",
+			"<project>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"site",
+			"id=\"content\"",
+			"console",
+			"imgBox",
+			"imageBox",
+			"cropper",
+			"crop",
+			"imageFile",
+			"loadImage",
+			"fileInput",
+			"dialogue_photo",
+			"forms",
+			"forms.js",
+			"console",
+			"dataurl",
+			"createNewImageInstance",
+			"cropper",
+			"removeLoader",
+			"thumb",
+			"cropper",
+			"doOSCheck",
+			"thumb",
+			"crop",
+			"cropbox",
+			"cropbox-min",
+			"#profile_page .imageBox",
+			"crop-controls",
+			"thumbBox",
+			"btnFit",
+			"btnZoomIn",
+			"thumbbox",
+			"#profile_page .imageBox",
+			"imgBox",
+			"zoomIn",
+			"thumbBox",
+			"getBlob",
+			"class=\"thumbBox\"",
+			"Image",
+			"getDataURL",
+			"obj.state",
+			"thumb",
+			"state",
+			"obj.state",
+			"el",
+			"imgMouseDown",
+			"drag",
+			"cropbox-min",
+			"thumb",
+			"thumBox",
+			"cropOpt",
+			"input id=\"d",
+			"bir",
+			"birt",
+			"birthday",
+			"dialogue_birthday",
+			"dialogue",
+			"birt",
+			"user_birthday",
+			"dialogue_birthday_root",
+			"dialogue_birthday",
+			"birthday",
+			"pickadate",
+			"network_site_url",
+			"image",
+			"move",
+			"profile_pic t-col",
+			"login",
+			"network_url",
+			"redirect",
+			"redirect_to",
+			"login/",
+			"login/?redirect_to=",
+			"login/?redirect_to=%2F&reauth=1",
+			"plugins_directory",
+			"NMP-PIP",
+			"$page = get_the_title();",
+			"http",
+			"ABSPATH",
+			"defau",
+			"def",
+			"ajax_object.ajax_url",
+			"staffer",
+			"ajax_object",
+			"ajax_url",
+			"userinfo2",
+			"staff",
+			"elvis",
+			"profile_pic",
+			"http://",
+			"http://intranet",
+			"http",
+			"pickadate",
+			"pick",
+			"cropbox.js",
+			"cropbox-min",
+			"BdayWidget",
+			"background-po",
+			"background-position",
+			"options",
+			"imgSrc",
+			"background-size",
+			"el.style",
+			"setBackground",
+			"cropbox-min",
+			"crop",
+			"cropbox",
+			"crop-box",
+			"isD",
+			"background-size",
+			"imageBox",
+			"Blob",
+			"purple_information_profile = ",
+			"dataURItoBlob",
+			"platform",
+			"doOSCheck",
+			"purple_information_profile",
+			"profile_pic\"><img src=",
+			"profile_pic",
+			"btnCrop",
+			"$userinfo",
+			"http",
+			"$default_profile_pic",
+			"background-image",
+			"file-display",
+			"https://intranet.newmediacreative",
+			".dismiss-bday",
+			"dismiss-bday",
+			"jquery"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"SAIBA MAIS >>",
+			"EN SAVOIR PLUS >>",
+			"border=\"0\"",
+			"border=\"1\"",
+			"border=\"0\"",
+			"border=\"1\"",
+			"border=\"0\"",
+			"EsmareEmailer2_afr",
+			"EsmareEmailer_afr",
+			"border=\"0\"",
+			"border=\"1\"",
+			"src=\"",
+			"src=\"http://communications.newmediapub.co.za/users/assets/1087/images/77379/",
+			"border=\"0\"",
+			"src=\"http://communications.newmediapub.co.za/users/assets/1087/images/77366/",
+			"-",
+			"'",
+			"true",
+			"false"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 95.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 132.0
+	},
+	"output.exec":
+	{
+		"height": 47.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "script.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/frederick.naude/Desktop/Learning Materials/Lynda/Javascript/JS Functions/7/script.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 168.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,123 @@
+*{
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+
+body{
+	margin: 0;
+	background: #FFFFFF;
+}
+
+a{
+	text-decoration: none;
+	color: #FFF;
+}
+
+/*
+	NAVBAR
+	=====================================================*/
+
+.navbar{
+	background-color: #1E1E19;
+	border-bottom: 1px solid #000000;
+	height: 80px;
+	padding-left: 20px;
+	padding-top: 30px;
+	font-family: 'Baumans', cursive, sans-serif;
+}
+
+.navbar ul{ 
+	margin-top: 0;
+}
+.navbar li{
+	display: inline;
+	padding-left: 10px;
+}
+.navbar li a{
+	text-decoration: none;
+	color: #FFF;
+}
+.navbar li a:hover{
+	color: #8AE2F5;
+}
+
+
+/*
+	BLEATSECTION
+	=====================================================*/
+
+.bleatSection{
+	width: 100%;
+}
+
+.grid {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bleatBox{
+	background-color: #EAEAEA;
+	height: 100px;
+	width: 100%;
+	margin: 20px 0 20px 0;
+	padding: 20px;
+	text-align: center;
+	-webkit-border-radius: 5px;
+	        border-radius: 5px;
+}
+
+.bleatBox input[type="text"] {
+	display: block;
+	width: 400px;
+	min-height: 30px;
+	margin: 0 auto;
+	margin-bottom: 8px;
+	-webkit-transition: all .2s ease-in-out;
+	   -moz-transition: all .2s ease-in-out;
+	    -ms-transition: all .2s ease-in-out;
+	     -o-transition: all .2s ease-in-out;
+	        transition: all .2s ease-in-out;
+}
+
+.bleatBox p{
+	color: #4A4A4A;
+	font-family: 'Baumans', cursive, sans-serif;
+	text-align: left;
+}
+
+.time>p{
+	font-size: 0.5em;
+}
+
+a.bleatButton{
+	display: block;
+    width: 100px;
+    height: 30px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #FB1561;
+    border-radius: 5px;
+    color: #ffffff;
+    padding: 5px;
+    font-family: 'Open Sans', sans-serif;
+    -webkit-transition: all .2s ease-in-out;
+	   -moz-transition: all .2s ease-in-out;
+	    -ms-transition: all .2s ease-in-out;
+	     -o-transition: all .2s ease-in-out;
+	        transition: all .2s ease-in-out;
+}
+
+a.bleatButton:hover{
+    transform: scale(1.1);
+}
+
+
+@media only screen and (min-width:400px) and (max-width: 800px) {
+	.bleatBox input[type="text"] {
+		display: block;
+		width: 150px;
+	}
+
+}
